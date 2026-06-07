@@ -1,0 +1,12 @@
+pyautogui
+psutil
+win10toast
+pywhatkit
+winotify
+requests
+pygame
+playsound
+setuptools
+zexi-stt
+selenium
+webdriver_manager
